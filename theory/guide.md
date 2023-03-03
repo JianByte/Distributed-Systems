@@ -29,3 +29,5 @@ DBLP是德国大学Universität Trier设立的计算机论文数据库，界面�
 ### Reference
 * https://ying-zhang.github.io/misc/2016-we-love-paper/
 * https://www.zhihu.com/question/20643420
+
+## 形式化的证明
